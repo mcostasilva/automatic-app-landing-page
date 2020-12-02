@@ -6,7 +6,7 @@ ios_app_id                                : 1472236029                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -20,9 +20,9 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Marcio                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_link                                 :
+your_city                                 :                                 
+email_address                             :
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : ambient_app
@@ -34,24 +34,24 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Find sleep
+    description                           : Ease yourself into a slumber, and stay asleep.
+    fontawesome_icon_name                 : bed
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Create custom soundscapes
+    description                           : Fancy a slow lullaby with on a background of waves? Or are you more of a train person? Customize everything to find the perfect ambience to fall asleep
+    fontawesome_icon_name                 : heart
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Save your soundscapes
+    description                           : Easily go back to your favorite soundscapes
+    fontawesome_icon_name                 : save
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Share & Import (Coming Soon)
+    description                           : You can share your favorite soundscapes with friends, or use their soundscapes for yourself!
+    fontawesome_icon_name                 : share
 
   - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Nothing is easier than adjusting the volume of every sound in your soundscape.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Feature List
