@@ -52,23 +52,15 @@ features                                  :
 
   - title                                 : Easy to Tweak
     description                           : Nothing is easier than adjusting the volume of every sound in your soundscape.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : sliders-h
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Timer
+    description                           : Setup a timer to automatically stop playing when you fall asleep.
+    fontawesome_icon_name                 : hourglass-start
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Energy & Data efficient
+    description                           : Contrary to other apps we don't make your phone super hot or eat all your data plan
+    fontawesome_icon_name                 : leaf
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
