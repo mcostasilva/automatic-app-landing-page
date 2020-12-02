@@ -61,6 +61,11 @@ features                                  :
   - title                                 : Energy & Data efficient
     description                           : Contrary to other apps we don't make your phone super hot or eat all your data plan
     fontawesome_icon_name                 : leaf
+    
+  - title                                 : We value your privacy
+    description                           : Your data will never be used for any other purpose than using our app
+    fontawesome_icon_name                 : user-secret
+    
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
